@@ -1,0 +1,21 @@
+.buttonsList {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.buttonsItem {
+  width: 150px;
+  height: 40px;
+  color: #d5caca;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 8px;
+  background-color: hsl(5, 41%, 25%);
+}
+
+.buttonsItem:hover,
+.buttonsItem:focus {
+  background-color: #3f211e;
+}

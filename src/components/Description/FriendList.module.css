@@ -1,0 +1,13 @@
+.descriptionTitle {
+  font-size: 48px;
+  max-width: 700px;
+  margin: 0 auto;
+  border-bottom: 1px solid brown;
+}
+
+.descriptionText {
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  margin-bottom: 30px;
+}
