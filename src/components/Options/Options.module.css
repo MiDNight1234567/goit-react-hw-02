@@ -8,14 +8,14 @@
 .buttonsItem {
   width: 150px;
   height: 40px;
-  color: #d5caca;
+  color: #000000;
   font-size: 16px;
   font-weight: 500;
   border-radius: 8px;
-  background-color: hsl(5, 41%, 25%);
+  background-color: hsl(234, 100%, 50%);
 }
 
 .buttonsItem:hover,
 .buttonsItem:focus {
-  background-color: #3f211e;
+  background-color: #0d00ff46;
 }
